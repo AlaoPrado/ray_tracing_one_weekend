@@ -1,6 +1,6 @@
 # Computação gráfica - Ray tracing
 
-O trabalho consistiu na implemetação do algoritmo de ray tracing. Para isso, foi utilizado um guia de implementação, o livro "Ray Tracing in one Weekend" do Peter Shirley. O guia mostrou passo-a-passo como o ray tracing poderia ser implementado, utilzando exemplos de código em C++. Assim, a tarefa desse TP foi a de adaptar o código para python. Para realizar essa tarefa, utilizou-se bibliotecas para a manipulaçao de entrada/saida, vetores, operações matématicas e de métodos probabilísticos, além de Classes em python.
+O trabalho consistiu na implemetação do algoritmo de ray tracing. Para isso, foi utilizado um guia de implementação, o livro "Ray Tracing in one Weekend" (https://raytracing.github.io/books/RayTracingInOneWeekend.html) do Peter Shirley. O guia mostrou passo-a-passo como o ray tracing poderia ser implementado, utilzando exemplos de código em C++. Assim, a tarefa desse TP foi a de adaptar o código para python. Para realizar essa tarefa, utilizou-se bibliotecas para a manipulaçao de entrada/saida, vetores, operações matématicas e de métodos probabilísticos, além de Classes em python.
 
 Para ler os parâmetros de execução, foi utilizado a biblioteca sys. Foi possível ler esses parâmetros através da lista sys.args.
 
